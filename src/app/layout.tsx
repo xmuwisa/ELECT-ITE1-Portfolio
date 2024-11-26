@@ -17,8 +17,10 @@ export default function RootLayout({
             </head>
             <body className={`${FONTS.alpha.className}`}>
                 <ThemeProvider attribute="class" defaultTheme="system">
-                    <Header />
-                    <main>{children}</main>
+                    <main className="relative w-svw flex flex-col items-center justify-center">
+                        <Header />
+                        {children}
+                    </main>
                 </ThemeProvider>
             </body>
         </html>
