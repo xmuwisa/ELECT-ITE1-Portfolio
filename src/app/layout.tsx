@@ -2,7 +2,7 @@
 
 import './globals.css';
 import { ThemeProvider } from 'next-themes';
-import { Header } from '@/components/layout';
+import { Header, Footer } from '@/components/layout';
 import { FONTS } from '@/configurations';
 
 export default function RootLayout({
@@ -20,6 +20,7 @@ export default function RootLayout({
                     <main className="relative w-svw flex flex-col items-center justify-center">
                         <Header />
                         {children}
+                        <Footer />
                     </main>
                 </ThemeProvider>
             </body>
