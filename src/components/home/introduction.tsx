@@ -27,7 +27,7 @@ export default function Introduction() {
                     </span>
                 </div>
             </div>
-            <div className="rounded-xl text-center md:text-justify p-8 border border-whtGray dark:border-blkGray hover:border-yellow-500 mx-8 md:mx-0 text-sm sm:text-base md:my-12 my-0 ease-in-out duration-200">
+            <div className="rounded-xl text-center md:text-justify p-8 border border-whtGray dark:border-blkGray hover:border-yellow-500 dark:hover:border-yellow-500 mx-8 md:mx-0 text-sm sm:text-base md:my-12 my-0 ease-in-out duration-200">
                 Hi, I'm <b className="text-yellow-500">Luisa</b>. I'm passionate
                 about technology and love exploring new skills, especially in
                 programming, system design, and data management. <br />
