@@ -11,7 +11,7 @@ export default function Photo() {
                         alt="Flower"
                         width={500}
                         height={500}
-                        className="w-full h-full rounded-xl object-cover object-center"
+                        className="hover:scale-95 w-full h-full rounded-xl object-cover object-center transition-all ease-in-out duration-200"
                     />
                 </div>
                 <div className="rounded-xl">
@@ -21,7 +21,7 @@ export default function Photo() {
                         alt="Flower"
                         width={500}
                         height={500}
-                        className="w-full h-full rounded-xl object-cover object-center"
+                        className="hover:scale-95 w-full h-full rounded-xl object-cover object-center transition-all ease-in-out duration-200"
                     />
                 </div>
                 <div className="rounded-xl">
@@ -31,7 +31,7 @@ export default function Photo() {
                         alt="Flower"
                         width={500}
                         height={500}
-                        className="w-full h-full rounded-xl object-cover object-center"
+                        className="hover:scale-95 w-full h-full rounded-xl object-cover object-center transition-all ease-in-out duration-200"
                     />
                 </div>
             </div>
