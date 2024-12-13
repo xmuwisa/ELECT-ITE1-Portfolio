@@ -1,5 +1,4 @@
-import Introduction from '@/components/home/introduction';
-import Photo from '@/components/home/photo';
-import Overview from '@/components/home/overview';
+import ResourcesContainer from '@/components/midterm/resources-container';
+import MidtermContainer from '@/components/midterm/midterm-container';
 
-export { Introduction, Photo, Overview };
+export { ResourcesContainer, MidtermContainer };

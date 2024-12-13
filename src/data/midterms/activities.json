@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "All About Me",
+        "date": "2024-09-29",
+        "pdf": "/pdf/ABOUT-ME.pdf",
+        "video": "/videos/midterms/ABOUT-ME.mp4",
+        "reflection": "This activity gave me the chance to reflect on how I see myself and what I want to share with others. Choosing a photo and describing myself in three words helped me think about the traits and qualities that matter most to me. Writing my impressions for the teacher allowed me to express my excitement and hopes for the class. Thinking about what I want to learn this year helped me clarify my goals and focus on areas I’m curious about. It was a simple yet meaningful way to start the course."
+    },
+    {
+        "id": 2,
+        "title": "Working with Vectors and Data Frames",
+        "date": "2024-11-23",
+        "pdf": "/pdf/ACT-3.pdf",
+        "video": "/videos/midterms/ACT-3.mp4",
+        "reflection": "Practicing with vectors and data frames was a hands-on way to strengthen my understanding of data manipulation in R. Extracting even numbers and calculating their sum gave me a better idea of how indexing works. Creating the employees data frame and adding a tax column helped me learn how to modify and analyze structured data. Handling missing values and writing a function to extract unique values showed me how important it is to manage data carefully. Overall, this activity gave me practical experience that made R’s capabilities feel more approachable."
+    },
+    {
+        "id": 3,
+        "title": "Manipulating and Merging Data",
+        "date": "2024-11-23",
+        "pdf": "/pdf/ACT-4.pdf",
+        "video": "/videos/midterms/ACT-4.mp4",
+        "reflection": "This task helped me understand how to combine datasets effectively and make them more useful. Performing an inner join on two data frames showed me how to merge data accurately, while categorizing Age into groups helped me see how data transformations can simplify analysis. Calculating average scores for each group and sorting data by Subject and Score made it clear how organizing data improves its readability. Writing a function to merge multiple data frames taught me how to automate repetitive tasks, which is a valuable skill. This activity was a solid introduction to managing and analyzing complex datasets."
+    },
+    {
+        "id": 4,
+        "title": "Using Built-in Functions and Control Structures",
+        "date": "2024-11-23",
+        "pdf": "/pdf/ACT-5.pdf",
+        "video": "/videos/midterms/ACT-5.mp4",
+        "reflection": "Exploring R’s built-in functions and control structures through this activity made me more confident in writing effective code. Converting names to title case and adding prefixes helped me practice string manipulation, which is essential for cleaning data. Writing a function to calculate the mean, median, and standard deviation of a vector taught me how to group related calculations into reusable code. The script for classifying numbers as positive, negative, or zero gave me a better understanding of conditional logic. Finally, working on the recursive Fibonacci function was challenging but rewarding. It was a great example of how recursion can simplify complex tasks."
+    },
+    {
+        "id": 5,
+        "title": "Using APPLY Family Functions",
+        "date": "2024-11-27",
+        "pdf": "/pdf/ACT-6.pdf",
+        "video": "/videos/midterms/ACT-6.mp4",
+        "reflection": "Using the APPLY family of functions was a practical way to see how repetitive operations can be simplified in R. Calculating student averages with apply() taught me how to handle row-wise operations, while lapply() and sapply() showed me how to summarize data in different formats like lists and vectors. Filtering scores above a threshold and categorizing students into 'Pass' or 'Fail' gave me a chance to apply conditional logic in a useful way. Creating lists with lapply() to find specific values, like scores above 85, showed me how flexible these functions are. This activity gave me valuable insights into how to work efficiently with data in R."
+    }
+]

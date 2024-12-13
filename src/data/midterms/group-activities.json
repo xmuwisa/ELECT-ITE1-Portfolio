@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "title": "Leveraging Big Data and Data Science",
+        "date": "2024-10-14",
+        "pdf": "/pdf/GROUP-ACT-1.pdf",
+        "video": "/videos/midterms/GROUP-ACT-1.mp4",
+        "reflection": "This activity helped me understand how big data and data science can be used to improve business operations like those at RetailCo. By learning about the key characteristics of big data, such as volume, velocity, and variety, we identified how data like customer transactions and inventory records can influence better decision-making. We also explored methods like predictive analytics, clustering, and sentiment analysis to understand how data science can provide useful insights. For example, predictive analytics can forecast sales trends, clustering can group customers by behavior, and sentiment analysis can reveal customer opinions. Lastly, we discussed challenges such as poor data quality, system integration issues, and employee resistance, and came up with practical solutions like proper training and step-by-step implementation. This activity provided valuable insight into the opportunities and obstacles of using data science in a business setting."
+    }
+]

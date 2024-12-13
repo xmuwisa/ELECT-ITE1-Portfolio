@@ -1,4 +1,9 @@
-// import experienceData from './experience.json';
-// import teamData from './team.json';
+import midtermsActivityData from '@/data/midterms/activities.json';
+import midtermsAssignmentData from '@/data/midterms/assignments.json';
+import midtermsGroupActivityData from '@/data/midterms/group-activities.json';
 
-// export { experienceData, teamData };
+export {
+    midtermsActivityData,
+    midtermsAssignmentData,
+    midtermsGroupActivityData,
+};

@@ -23,9 +23,9 @@ export default function Overview() {
                         midterm period, including:
                     </span>
                     <ul className="list-disc mt-2 ml-4">
-                        <li>Quizzes</li>
-                        <li>Activities</li>
-                        <li>Midterm Exam</li>
+                        <li>Assignments</li>
+                        <li>Individual Activities</li>
+                        <li>Group Activities</li>
                         <li>Reflections</li>
                     </ul>
                     <span className="flex justify-end opacity-0 group-hover:opacity-100 ease-in-out duration-300">

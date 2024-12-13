@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Data Science",
+        "date": "2024-10-02",
+        "pdf": "/pdf/ASS-1.pdf",
+        "video": "/videos/midterms/ASS-1.mp4",
+        "reflection": "This assignment was a helpful introduction to Data Science and its importance in solving everyday problems. Learning the difference between Data Science and Business Intelligence made it clear that they handle data in different ways. Business Intelligence looks at past data to find trends, while Data Science uses advanced tools to predict future outcomes and give suggestions for action. The assignment also showed me how important data visualization is. I realized that good visuals make it easier to understand and explain data findings. Learning about basic concepts like preparing data, creating models, and using machine learning gave me a better idea of how Data Science works. This task helped me build a solid understanding and made me more excited to learn about this subject."
+    },
+    {
+        "id": 2,
+        "title": "Operators",
+        "date": "2024-10-19",
+        "pdf": "/pdf/ASS-2.pdf",
+        "video": "/videos/midterms/ASS-2.mp4",
+        "reflection": "This assignment gave me practical experience with using operators in R programming. It allowed me to explore arithmetic, relational, logical, and combination operations, deepening my understanding of how they work in real coding scenarios. The arithmetic and relational operations helped me understand how to perform calculations and make comparisons, while the logical and combination operations showed how conditions can be combined to create more complex logic. This task not only improved my coding skills but also gave me insight into how operators are essential for solving programming problems efficiently."
+    }
+]
