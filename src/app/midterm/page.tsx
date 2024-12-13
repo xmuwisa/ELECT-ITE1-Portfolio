@@ -8,7 +8,7 @@ export default function Midterm() {
             <div className="flex items-center justify-center flex-col gap-5">
                 <span className="text-3xl sm:text-4xl font-bold">Midterm</span>
                 <div className="text-center md:text-base text-sm mb-10">
-                    TThis midterms page highlights my academic journey through a
+                    This midterms page highlights my academic journey through a
                     collection of assignments and activities. It serves as a
                     platform where I showcase my submitted works, along with
                     thoughtful reflections on the insights and lessons I gained
